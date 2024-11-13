@@ -1,7 +1,7 @@
 # Flatbox Extra Wide
 Extra wide case for Flatbox, Bug from Streets™ Remix https://github.com/marsherino/flatbox-bugfromstreetsremix/tree/master
 
-3D printed MJF Nylon Button Cap design by stokken
+3D printed MJF Nylon Button Caps for Kailh Choc v1 switches designed by stokken
 
 ![iso](https://github.com/user-attachments/assets/66963a89-d5cc-406f-af39-cbe0e9889726)
 
